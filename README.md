@@ -50,6 +50,5 @@ ukk-2026/
 
 | Role  | Email            | Password |
 | ----- | ---------------- | -------- |
-| Admin | admin@perpus.com | (isi)    |
-| Siswa | mamat@perpus.com | (isi)    |
-| Siswa | aqil@perpus.com  | (isi)    |
+| Admin | admin@perpus.com | admin123 |
+| Siswa | mamat@perpus.com | mamat123 |
